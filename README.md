@@ -3,7 +3,7 @@ Portfolio Marcelo KALONJI
 
 ## Introduction :
 Ce projet vise à prédire l’apparition du diabète chez des patientes adultes à partir de variables médicales et biologiques, à l’aide de méthodes de machine learning supervisé.
-Au-delà de la simple prédiction, l’analyse vise également à identifier les facteurs les plus fortement associés au diabète, à mettre en évidence les limites inhérentes aux données utilisées — notamment la présence d’outliers et le déséquilibre entre les classes — et à évaluer de manière réaliste la performance d’un modèle prédictif dans un contexte de données de santé.
+Au-delà de la prédiction, l’analyse vise également à identifier les facteurs les plus fortement associés au diabète, à mettre en évidence les limites inhérentes aux données utilisées et à évaluer de manière réaliste la performance d’un modèle prédictif dans un contexte de données de santé.
 Le jeu de données utilisé provient du UCI Machine Learning Repository et concerne exclusivement des femmes d’ascendance Pima Indians.
 
 ## Objectif du projet :
